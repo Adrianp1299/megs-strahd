@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/megs-strahd/static/css/main.073c9b0a.css",
+    "main.js": "/megs-strahd/static/js/main.137f29f4.js",
+    "static/js/787.33c27ece.chunk.js": "/megs-strahd/static/js/787.33c27ece.chunk.js",
+    "index.html": "/megs-strahd/index.html",
+    "main.073c9b0a.css.map": "/megs-strahd/static/css/main.073c9b0a.css.map",
+    "main.137f29f4.js.map": "/megs-strahd/static/js/main.137f29f4.js.map",
+    "787.33c27ece.chunk.js.map": "/megs-strahd/static/js/787.33c27ece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.137f29f4.js"
+  ]
+}
